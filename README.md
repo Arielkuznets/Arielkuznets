@@ -1,7 +1,7 @@
 <h1 align="center">Ariel Kuznets</h1>
 
 <p align="center">
-  19 · Atuda student (IDF technological academic reserve) · Israel
+  19 · Atuda student (IDF technological reserve) · Israel
 </p>
 
 <p align="center">
